@@ -747,7 +747,7 @@ function Maptastic(config) {
  * AMD Loader to export
  */
 if (typeof define === "function" && define.amd) {
-	define(["Maptastic"], function() {
+	define(["maptastic"], function() {
 		"use strict";
 		return Maptastic;
 	});

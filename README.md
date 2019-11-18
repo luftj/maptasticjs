@@ -6,7 +6,7 @@ Javascript/CSS projection mapping utility.  Put your internets on things!
 ![maptastic animation](https://glowbox.github.io/maptasticjs/images/maptastic.gif "Maptastic JS")
 
 __note__:
-The original author has been busy and non-responsive so this fork will serve as a way to keep the project updated. If the author reaches out to me, I will be more than happy to go back to the [original repo](https://github.com/globox/maptasticjs).
+The original author has been busy and non-responsive so this fork will serve as a way to keep the project updated. If the author reaches out to me, I will be more than happy to go back to the [original repo](https://github.com/glowbox/maptasticjs).
 
 ### Usage:
 

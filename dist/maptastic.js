@@ -6064,7 +6064,7 @@ var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol
          * AMD Loader to export
          */
         if (typeof define === "function" && define.amd) {
-            define(["Maptastic"], function () {
+            define(["maptastic"], function () {
                 "use strict";
 
                 return Maptastic;
